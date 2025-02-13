@@ -43,6 +43,5 @@ O desafio consistia em tornar funcional uma página web para um **sorteio de Ami
 
 ## 👤 Autora  
 
-**Dai Meotti**  
-🔗 [GitHub](https://github.com/DaiMeotti)  
-📧 daianagbm@gmail.com 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/88205712?v=4" width=115><br><sub>Daiana Meotti</sub>](https://github.com/DaiMeotti) |  
+| :---: |
